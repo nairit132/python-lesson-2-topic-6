@@ -1,1 +1,1 @@
-# python-lesson-6-topic-2
+# python-lesson-2-topic-6
